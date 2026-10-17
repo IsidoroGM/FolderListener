@@ -1,0 +1,12 @@
+FOLDERLISTER — PLANTILLA DE LICENCIA PENDIENTE DE ELECCIÓN
+
+Titular: [NOMBRE DEL TITULAR]
+Año: [AÑO]
+Licencia elegida: [IDENTIFICADOR SPDX O TÉRMINOS PROPIETARIOS]
+
+Esta plantilla no concede permisos de redistribución ni sustituye una licencia final.
+Antes de publicar, el titular debe reemplazarla por el texto completo autorizado,
+definir derechos de uso, distribución, modificación, garantías y responsabilidad,
+y conservar los avisos y licencias de componentes de terceros que correspondan.
+
+Las dependencias mantienen sus propias licencias. Véase docs/DEPENDENCIAS.md.

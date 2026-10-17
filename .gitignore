@@ -1,0 +1,13 @@
+.venv/
+.bootstrap/
+.python/
+.cache/
+.tools/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+*.spec
+!packaging/folderlister.spec

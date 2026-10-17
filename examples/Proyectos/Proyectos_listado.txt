@@ -1,0 +1,19 @@
+FolderLister 1.0.0
+Directorio: C:\Users\34656\Desktop\Proyectos de Programación\FolderListener\examples\Proyectos
+Fecha: 2026-10-16T15:15:08+02:00
+Exploración: recursiva
+Elementos: carpetas y archivos
+Representación: árbol
+
+├── Proyecto_A/
+│   └── Documento.txt
+├── Proyecto_B/
+│   └── Datos.csv
+└── Notas con acentos ñ.txt
+
+Estado: completo
+Directorios explorados: 3
+Carpetas listadas: 2
+Archivos listados: 3
+Incidencias: 0
+Duración: 0.014 s
